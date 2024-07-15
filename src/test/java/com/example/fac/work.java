@@ -21,8 +21,8 @@ public class work {
             WebElement email = driver.findElement(By.name("email"));
             WebElement password = driver.findElement(By.id ("pass"));
 
-            email.sendKeys("vira.balduch249@gmail.com");
-            password.sendKeys("donald2121");
+            email.sendKeys("vira.fjhrreji@gmail.com");
+            password.sendKeys("nfkjjirr");
             System.out.println("Text Field Set");
 
             password.submit();
