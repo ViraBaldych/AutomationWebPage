@@ -1,4 +1,4 @@
-package dev.selenium.getting_started;
+package AutomationWebPage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-    public class zzzzzz {
+    public class AutomationWebPage {
         public static void main(String[] args) {
             WebDriver driver = new ChromeDriver();
 
